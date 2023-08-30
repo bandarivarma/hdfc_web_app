@@ -1,3 +1,6 @@
 name = varma
 password = varma@123
 gender =male
+gender = "male"
+college =tkr
+branch = eee
